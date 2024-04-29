@@ -1,3 +1,6 @@
+using System.Text;
+using UnityEngine;
+
 public class RunLengthEncoding {
     public static string Encode(string input) {
         if (string.IsNullOrEmpty(input)) return string.Empty;
