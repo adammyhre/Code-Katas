@@ -12,3 +12,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 ## Katas
 1. [Run-Length Encoding](Katas/RunlengthEncoding/)
 2. [Subarray Sum Equals K](Katas/SubarraySumEqualsK/)
+3. [Rotate List By K](Katas/RotateListByK/)
