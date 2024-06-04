@@ -15,3 +15,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 3. [Rotate List By K](Katas/RotateListByK/)
 4. [Reverse Integer](Katas/ReverseInteger/)
 5. [Point In Polygon](Katas/PointInPolygon/)
+6. [Word Search in a 2D Matrix](Katas/WordSearch/)
