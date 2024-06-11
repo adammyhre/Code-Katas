@@ -16,3 +16,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 4. [Reverse Integer](Katas/ReverseInteger/)
 5. [Point In Polygon](Katas/PointInPolygon/)
 6. [Word Search in a 2D Matrix](Katas/WordSearch/)
+7. [Fibonacci Sequence](Katas/FibonacciSequence/)
