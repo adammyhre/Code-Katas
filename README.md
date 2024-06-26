@@ -18,3 +18,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 6. [Word Search in a 2D Matrix](Katas/WordSearch/)
 7. [Fibonacci Sequence](Katas/FibonacciSequence/)
 8. [Reverse Words with Delimiters](Katas/ReverseDelimitedWords/)
+9. [Conditional Return Using Bitwise Operations](Katas/BitwiseConditional/)
