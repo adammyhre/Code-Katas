@@ -20,3 +20,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 8. [Reverse Words with Delimiters](Katas/ReverseDelimitedWords/)
 9. [Conditional Return Using Bitwise Operations](Katas/BitwiseConditional/)
 10. [Partition Multiset into Equal Sum Subsets](Katas/PartitionMultiset/)
+11. [Look and Say Sequence](Katas/LookAndSaySequence/)
