@@ -22,3 +22,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 10. [Partition Multiset into Equal Sum Subsets](Katas/PartitionMultiset/)
 11. [Look and Say Sequence](Katas/LookAndSaySequence/)
 12. [Form Largest Possible Integer](Katas/FormLargestInteger/)
+13. [Palindrome Checker](Katas/PalindromeChecker/)
