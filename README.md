@@ -26,3 +26,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 14. [Search without Multiplication, Division, or Bit Shifting](Katas/SortedListSearch/)
 15. [Valid Parentheses](Katas/ValidParentheses/)
 16. [Mice and Holes](Katas/MiceAndHoles/)
+17. [Counting Unique Paths in a Grid](Katas/PathCounter/)
