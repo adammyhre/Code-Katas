@@ -28,3 +28,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 16. [Mice and Holes](Katas/MiceAndHoles/)
 17. [Counting Unique Paths in a Grid](Katas/PathCounter/)
 18. [In Place Shuffle](Katas/InPlaceShuffle/)
+19. [Rearrange String Without Adjacent Dupes](Katas/RearrangeString/)
