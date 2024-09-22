@@ -31,3 +31,4 @@ and on [Discord](https://discord.gg/FDRZGQBBUC) for more Katas and Game Dev Disc
 19. [Rearrange String Without Adjacent Dupes](Katas/RearrangeString/)
 20. [Greatest Common Denominator](Katas/GreatestCommonDenominator/)
 21. [Pythagorean Triplet](Katas/PythagoreanTriplet/)
+22. [Egg Drop Challenge](Katas/EggDrop/)
